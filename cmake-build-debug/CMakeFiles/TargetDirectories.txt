@@ -1,0 +1,3 @@
+I:/Programy/Folder wspoldzielony/Ou/cmake-build-debug/CMakeFiles/Ou.dir
+I:/Programy/Folder wspoldzielony/Ou/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/Programy/Folder wspoldzielony/Ou/cmake-build-debug/CMakeFiles/rebuild_cache.dir
